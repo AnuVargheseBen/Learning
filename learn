@@ -21,3 +21,7 @@ git remote add origin https://github.com/<your_username>/Demo.git
 # connect your computer to GitHub
 git push -u origin master
 # To push files to my repository
+git checkout -b <my branch name>
+# create a new branch.It will be the current branch
+git checkout master
+# to move to master branch
