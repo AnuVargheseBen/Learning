@@ -27,3 +27,7 @@ git checkout master
 # to move to master branch
 
 # After commit need to type git push to see the changes
+git branch -d Learning
+# To delete branch from local git
+ git remote add origin https://github.com/anuvarghese1395/ReactJS.git
+ 
